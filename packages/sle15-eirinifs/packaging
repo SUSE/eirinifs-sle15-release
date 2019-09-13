@@ -1,0 +1,3 @@
+set -e
+
+cp eirini/sle15-eirinifs-v*.tar ${BOSH_INSTALL_TARGET}/eirinifs.tar
