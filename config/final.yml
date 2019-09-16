@@ -1,4 +1,5 @@
 ---
+final_name: eirinifs-sle15-release
 blobstore:
   provider: s3
   options:
