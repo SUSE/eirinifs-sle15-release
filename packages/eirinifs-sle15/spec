@@ -1,0 +1,5 @@
+---
+name: eirinifs-sle15
+
+files:
+- eirini/eirinifs-sle15-v*.tar

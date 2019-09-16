@@ -1,10 +1,10 @@
 ---
-name: sle15-eirinifs
+name: eirinifs-sle15
 
-description: This job copies the sle15-eirinifs to a desired location
+description: This job copies the eirinifs-sle15 to a desired location
 
 packages:
-  - sle15-eirinifs
+  - eirinifs-sle15
 
 templates:
   pre-start.erb: bin/pre-start
