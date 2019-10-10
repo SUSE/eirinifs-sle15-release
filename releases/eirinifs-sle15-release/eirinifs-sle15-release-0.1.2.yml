@@ -1,0 +1,21 @@
+name: eirinifs-sle15-release
+version: 0.1.2
+commit_hash: 6e3d554
+uncommitted_changes: false
+jobs:
+- name: eirinifs-sle15
+  version: ff8d63485cfbcad5520330759a9363cf6684bf4adced8ac0f0cd46c1f5c6be9c
+  fingerprint: ff8d63485cfbcad5520330759a9363cf6684bf4adced8ac0f0cd46c1f5c6be9c
+  sha1: sha256:38193e0626debaa3a179a329943d22563c5a3c1ae67e0901a7f70d9df5ef89b2
+  packages:
+  - eirinifs-sle15
+packages:
+- name: eirinifs-sle15
+  version: 1cedb65252d3f1fc14714f86fd3d4fb5dec6d45b413b11b70a8d799d16b87ea5
+  fingerprint: 1cedb65252d3f1fc14714f86fd3d4fb5dec6d45b413b11b70a8d799d16b87ea5
+  sha1: sha256:16af0cba2a22ff9cea9baaa688336082ff53438cea80bc289ac836d9ba941000
+  dependencies: []
+license:
+  version: eefa533b44473426f0d39cb7de4a5de1342863955201ca83ddaefe4a0c96d174
+  fingerprint: eefa533b44473426f0d39cb7de4a5de1342863955201ca83ddaefe4a0c96d174
+  sha1: sha256:ff66034c72f284b06665fddd964487a99fc0f3dbfb19564f7119f39c14e10e7e
